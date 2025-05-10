@@ -14,13 +14,15 @@ Sou Analista de Sistemas com sólida experiência em desenvolvimento, suporte e 
 
 ---
 
-## 🛠️ Habilidades técnicas
+## 🛠️ Habilidades
 
-- **Linguagens**: Python, JavaScript, TypeScript, SQL, ADVPL
-- **Frameworks**: Node.js, Vue.js, Express, TailwindCSS
-- **Banco de Dados**: MongoDB, MySQL, Firebird
-- **Ferramentas**: Docker, Git, GitHub, Linux, VS Code, Protheus
-- **Metodologias**: Kanban, Scrum, ITIL
+- **Linguagens**: SQL, Python, C#, ADVPL
+- **Banco de Dados**: SQL Server, MySQL, Firebird, MongoDB
+- **Web**: ASP.NET Core, Web Scraping com C#
+- **Ferramentas**: Docker, Git, Protheus, VS Code, Linux (Ubuntu)
+- **Metodologias**: ITIL, Kanban, Scrum
+- **Outros**: Integrações com sistemas legados, documentação funcional/técnica, testes automatizados
+
 
 ---
 
@@ -31,12 +33,16 @@ Sou Analista de Sistemas com sólida experiência em desenvolvimento, suporte e 
 
 ---
 
-## 🧠 Certificações
+## 📚 Certificações de destaque
 
-- Formação PHP Experience
-- Potência Tech - iFood (Ciência de Dados)
-- AWS LocalizaLabs - Descubra a Nuvem
-- MySQL Data Integration with Python
+- 🧠 **Python Data Analytics (68h)** — DIO  
+- 🛡️ **Santander Bootcamp Cibersegurança** — DIO  
+- ☁️ **Descubra a Nuvem com AWS – LocalizaLabs** — DIO  
+- 🧮 **Potência Tech iFood – Ciência de Dados** — DIO  
+- 💻 **Formação PHP Experience** — DIO  
+- 🧪 **Integrating & Transforming MySQL Data with Python** — DIO  
+- 🧩 **Protheus 12 – Arquitetura e Instalação na Prática** — Udemy  
+- 📊 **Ciência de Dados para Iniciantes** — Udemy  
 
 ---
 
